@@ -1,12 +1,5 @@
-# Webbutveckling I - Projekt
-__Projektnamn:__ Mall Musik-webbplats
+# DT057G - Web Development I
 
-__Av:__ Albin Rönnkvist
-## Beskrivning
 Mall för Musik-webbplats där fokus på låg på att lära mig grunderna i HTML och CSS. Min första strukturerade webbplats.
 
-[__Webbplats__](https://albinronnkvist.se/skola/dt057g/projekt/index.htm) 
-
-
-## Installation
-1. Ladda ned projektet med kommandot: _git clone https://github.com/albinronnkvist/Kurs_Webbutveckling1_
+[Rapport](https://github.com/albinronnkvist/Course_DT057G_WebDevelopmentI/blob/master/DT057G_essay_sv.pdf)
