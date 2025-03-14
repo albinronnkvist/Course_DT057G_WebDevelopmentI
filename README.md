@@ -1,5 +1,8 @@
 # DT057G - Web Development I
 
-Mall för Musik-webbplats där fokus på låg på att lära mig grunderna i HTML och CSS. Min första strukturerade webbplats.
+Fundamentals of Web Development with HTML and CSS.
 
-[Rapport](https://github.com/albinronnkvist/Course_DT057G_WebDevelopmentI/blob/master/DT057G_essay_sv.pdf)
+In this course, I learned the basics of web development, including how a browser communicates with web servers to display web pages. For the final project, I created a template for a music website, focusing on learning the fundamentals of HTML and CSS. This was my first structured website.
+I also created useful websites with HTML and CSS based on W3C's validation requirements and basics.
+
+[Essay](https://github.com/albinronnkvist/Course_DT057G_WebDevelopmentI/blob/master/DT057G_essay_sv.pdf)
